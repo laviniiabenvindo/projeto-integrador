@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #e49cbb;
+}
+header{
+    position: fixed;
+    width: 200px;
+}
+.logo{
+    padding: .9rem;
+    background-color: #F5E12D;
+}
+.area-navegacao{
+    display: flex;
+    flex-direction: column;
+    padding: .9rem;
+    background-color: #98D3D3;
+}
+.rodape{
+    padding: .9rem;
+    background-color: #F5E12D;
+}
